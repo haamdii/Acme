@@ -1,0 +1,1 @@
+Basic static responsive website with HTML and CSS 
