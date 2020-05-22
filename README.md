@@ -1,4 +1,4 @@
 # Acme
-Very Basic responsive static website 
+Simple responsive static website 
 
 Simple website using HTML & CSS 
